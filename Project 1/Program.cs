@@ -10,7 +10,7 @@ namespace Project_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello world! This project for TRPO");
+            Console.WriteLine("Hello world!");
         }
     }
 }
